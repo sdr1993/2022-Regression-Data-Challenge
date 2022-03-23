@@ -8,27 +8,39 @@ The challenge is to correctly predict value for 'score' based on independent var
 
 # Model Evaluation
 * Linear Regressor:
+
 mean_absolute_error: 0.7990138878486618
+
 mean_squared_error: 0.9725434418148272
 
 * SVR Regressor:
+
 mean_absolute_error: 0.7272450796927424
+
 mean_squared_error: 0.8628980763795706
 
 * Ridge Regressor:
+
 mean_absolute_error: 0.7991351508846334
+
 mean_squared_error: 0.9724804683321314
 
 * ANN Regressor:
+
 mean_absolute_error: 0.8343563015562891
+
 mean_squared_error: 1.0585733065177851
 
 * Hypertuned XGBoost:
+
 mean_absolute_error: 0.7783635169377756
+
 mean_squared_error: 0.929069837163907
 
 * Hypertuned RandomForest Regressor:
+
 mean_absolute_error: 0.7015575539583458
+
 mean_squared_error: 0.7787078832538008
 
 # Best Mode: Hypertuned RandomForest Regressor
