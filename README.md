@@ -1,6 +1,8 @@
 # 2022-Regression-Data-Challenge
 Estimate score for a medical condition of a patient!
 
+Challenge link: https://www.kaggle.com/competitions/2022-regression-data-challenge
+
 # Description:
 This data challenge involves regression task. The target variable is 'score' that captures medical condition of a patient. Independent variables capture patient related data that can influence the target variable 'score'. First variable in the train.csv data file identifies each patient record uniquely.
 
